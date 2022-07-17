@@ -25,6 +25,7 @@ The dataset consists of the following four classes of Alzheimer's MRI Images:
 * Moderate Demented
 * Non Demented
 * Very Mild Demented
+
 The dataset is comprised of around 6400 brain MRI Images.
 
 ## Network Architecture
