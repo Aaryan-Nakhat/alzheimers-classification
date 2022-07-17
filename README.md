@@ -1,7 +1,7 @@
 
 # Alzheimer's Disease Classification Using a Deep CNN Framework
 
-Classifying Brain MRI Images into 4 categories of Alzheimers.
+Classifying Brain MRI Images into four classes of Alzheimers.
 
 
 ## Demo
