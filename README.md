@@ -59,6 +59,6 @@ Mobile and PC users can find a prototype of this project on: <a href = "https://
 
 If you have any feedbacks or queries, feel free to reach me out at: aaryan.nakhat@gmail.com
 
-If you would like to connect/collobrate with me, do ping me up on Linkedln: <a href = "www.linkedin.com/in/aaryan-nak" target="_blank">Aaryan Nakhat</a>
+If you would like to connect/collobrate with me, do ping me up on Linkedln: <a href = "https://www.linkedin.com/in/aaryan-nak" target="_blank">Aaryan Nakhat</a>
 
 
