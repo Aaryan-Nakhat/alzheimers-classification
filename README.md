@@ -12,7 +12,7 @@ Classifying Brain MRI Images into four classes of Alzheimers.
 ## Running the app
 
 - Firstly run <code>pip install -r requirements.txt</code> to install all dependencies.
-- Then run <code>python app.py</code> to open the web app.
+- Then run <code>python app.py</code> to open the web app locally.
 
 
 ## Dataset
