@@ -30,7 +30,7 @@ The dataset is comprised of around 6400 brain MRI Images.
 
 ## Network Architecture
 
-The network architecture is illustrated below. 
+The network architecture is illustrated below:
 
 ![](miscellaneous/network_architecture.jpg)
 
