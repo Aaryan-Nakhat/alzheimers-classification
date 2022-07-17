@@ -35,7 +35,7 @@ The network architecture is illustrated below:
 ![](miscellaneous/network_architecture.jpg)
 
 A series of convolutional layer – convolutional layer – batch normalization layer – max pooling layer is considered as a convolutional block. 
-* Five such convolutional blocks with the number of filters of the Conv2D layers by the factor of 2, ranging from 16 to 256. 
+* Five such convolutional blocks are used and the number of filters of the Conv2D layers increases by the factor of 2, ranging from 16 to 256, after each convolutional block.
 * A 3x3 kernel and relu activation function is used for all the convolutional layers.
 * Each maxpooling layer uses a pool size of 3x3 with a stride of 2.
 * A dropout layer with a dropout rate of 0.2 is used after each convolutional block.
