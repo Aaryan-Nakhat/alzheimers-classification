@@ -52,10 +52,13 @@ A series of convolutional layer – convolutional layer – batch normalization 
 ## Demo on Heroku:
 Mobile and PC users can find a prototype of this project on: <a href = "https://alzheimers-aaryan-nakhat.herokuapp.com/" target="_blank">Heroku</a>
 
+(Note: the app takes time to load for the first time, so hang on!)
+
+
 ## Feedback
 
 If you have any feedbacks or queries, feel free to reach me out at: aaryan.nakhat@gmail.com
 
-If you would like to connect/collobrate with me, do ping me up on Linkeln: <a href = "https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images" target="_blank">Aaryan Nakhat</a>
+If you would like to connect/collobrate with me, do ping me up on Linkeln: <a href = "www.linkedin.com/in/aaryan-nak" target="_blank">Aaryan Nakhat</a>
 
 
